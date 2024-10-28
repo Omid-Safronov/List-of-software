@@ -1,0 +1,267 @@
+R packages	Command line softwares
+AnnotationDbi	3d-Dna
+Ape	Abyss-2.0.2
+Aplot	Adapterremoval
+Base	AdmixTools
+BH	AEGeAn
+Biobase	Agptools
+BiocFileCache	AHRD
+BiocGenerics	Alder
+BiocManager	AliView
+BiocParallel	ALLHiC
+Biostrings	Antismash
+Blob	Atlas
+Boot	Augustus
+Cachem	Badirate
+Callr	Bambam
+Caret	Bamtools
+CaTools	BamUtil
+CCA	BASS
+Cellranger	Bbmap
+Circlize	Bcftools
+Class	Beagle
+ClassInt	Bedops
+CleanNLP	Biocode
+Cli	Bioperl
+Clipr	Blasr
+Clue	Blast
+Cluster	Blobtools
+ClusterProfiler	Bowtie
+Codetools	BRAKER
+ComplexHeatmap	BUILD
+Corrplot	Busco
+Covr	Bwa
+Cowplot	CAFExp
+DBI	CAP3
+Dbplyr	Cdhit
+DelayedArray	CDNA_Cupcake
+Dendextend	Chemfp
+DEoptimR	ClinEff
+DESeq2	Clustalo
+Devtools	Conda
+Diagram	Corset
+Digest	Cufflinks
+Diptest	Cutadapt
+DoBy	Deconseq
+DoParallel	DeepVariant
+DOSE	Delly
+DotCall64	Detonate
+Dotplot	Diamond
+Downlit	Dlcpar
+Dplyr	Domclust
+DT	Domrefine
+Dtplyr	E2P2
+EasyPubMed	EBT
+Enrichplot	EffectorP_2.0
+Estimability	EMBOSS
+Evaluate	Ensembl-Vep
+Exact	EUPAN
+Factoextra	EVidenceModeler
+FactoMineR	Evigene
+Fastmap	Exonerate
+Fastmatch	EXpress
+Fastqcr	Fasta
+Fda	Fastme
+Fds	Fastp
+FlashClust	FastQC
+Flexmix	Fastq_utils
+FNN	FastStructure
+Forcats	FastTree
+Foreach	FigTree_v1.4.2
+FormatR	Fmlrc
+Formula	Fqtools
+Generics	Freebayes
+GenomeInfoDb	Fsc
+GenomeInfoDbData	GAG
+GenomicRanges	GAL
+Ggbiplot	Gatk
+Ggforce	GEMMA
+Ggfun	Genemark
+Ggkegg	Genesum
+Ggnewscale	Genevalidator
+Ggord	GenomeAnalysisTK
+Ggplot2	Genometools
+Ggplotify	Gffread
+Ggpubr	Gffread
+Ggraph	Gfftools
+Ggrepel	GlimmerHMM
+Ggsci	Glutton
+Ggsignif	GMAP-GSNAP
+Ggstats	Gmes
+Ggtree	Gm_et
+Ggupset	Gnuplot
+Ggvenn	Graphlan
+Gh	Gsl
+Gitcreds	Gth
+Gld	Guidance
+Glmnet	HaploMerger2
+GO.Db	Hisat2
+GOSemSim	Hmmer
+Gower	Homer
+Gplots	HTSeq
+Graphics	Htslib
+Graphlayouts	Hyphy
+GrDevices	IPred
+Grid	Javacyc
+GridExtra	Jcvi
+GridGraphics	Jelly2
+Gtools	Jellyfish
+Igraph	Juicer
+Inum	Kallisto
+Ipred	Kappa
+IRanges	KAT-Master
+Jsonlite	KentUtils
+KEGGREST	Kinfin
+Keras	King
+Kernlab	Kmergenie
+KernSmooth	Kraken
+KlaR	LOCALIZER
+Knitr	Lofreq
+Ks	MafTools
+Later	MapDamage
+Lda	MaSuRCA-3.3.4
+Magick	Mauve
+Mallet	Mauve
+Maps	Mcl
+MASS	MegaRAID
+Matrix	Meme
+MatrixGenerics	Miniasm
+MatrixModels	Miniconda
+MatrixStats	Minimap2
+Mclust	Motifs
+Methods	MrBayes
+MetricsWeighted	Msms
+Microbenchmark	Ncbi-Blast
+Micropan	Netpbm
+Microseq	Ngmlr
+Minty	NGSrelate
+ModelMetrics	Nlopt
+Modelr	NSEG
+Modeltools	Nsr
+Msigdbr	Oases
+MultcompView	OldGATK
+Multicool	OMA.1.1.2
+Nlme	OmegaPlus
+Nloptr	OrthoFinder
+NLP	Orthomcl
+Pander	Paml
+Parallel	Pandaseq
+Partykit	PanGP
+Patchwork	PASA
+PathfindR	Pasta
+Pbkrtest	Pbh5tools
+PcaPP	Phylip
+Pdftools	Phylobayes
+Permute	Picard
+Pheatmap	Pilon
+Plogr	Plink
+Plotly	PopLDdecay
+Plotrix	Prank
+Plyr	ProtHint
+Polyclip	Psmc
+Polynom	Purge_haplotigs
+Prabclus	Pysam
+Progress	Qualimap
+Progressr	Quast
+Proxy	Reapr
+PubChemR	RECON
+Quadprog	RepeatMasker
+Quanteda	RepeatModeler
+Quantreg	RepeatScout-1
+Questionr	Rmblast
+Qvalue	RnaQUAST
+Ragg	RSEM
+Rainbow	Sailfish
+RandomcoloR	Salmon
+Rappdirs	Samtools
+Rcmdcheck	Scipy
+RColorBrewer	Seg
+Rcpp	Sepp
+RcppArmadillo	Seqkit
+RcppEigen	SeqMonk
+RcppTOML	Seqtk
+RCurl	Share
+Reactable	Signalp
+Reactablefmtr	Snap
+ReactR	SnpEff
+Recipes	SNPGenie
+Rematch	SNPhylo
+Remotes	SOAPdenovo
+Rentrez	SPADE
+Reprex	SPAdes
+Reshape2	Spaln
+Reticulate	Speedseq
+Rex	Sratoolkit
+RJava	Stairway-Plot
+Rjson	RAxML
+RJSONIO	STAR
+Rlang	Stringtie
+Rmarkdown	Supernova
+Robustbase	Svtools
+RSQLite	Tcoffee
+Rstatix	TEanalysis
+Rstudioapi	TFBS
+Rsvg	TGICL
+Rtsne	Tophat
+Rversions	Transabyss-2.0.1
+Rvest	TransDecoder
+Sass	TransposonPSI
+Scales	Transrate
+Scatterpie	Treemix
+Scatterplot3d	TreeTrimmer
+Segmented	Trimmomatic
+Selectr	Trinity
+Seqinr	UQlust
+Sessioninfo	Vcftools
+Shadowtext	Vdb-NCBI
+Shape	Velvet
+Shiny	
+Slam	
+Snow	
+SnowballC	
+Sourcetools	
+Sp	
+Spam	
+Sparkline	
+SparseArray	
+SparseM	
+Spatial	
+Stats	
+Stats4	
+Stopwords	
+StreamR	
+Stringdist	
+Stringi	
+Stringr	
+Tensorflow	
+Textshaping	
+Tfautograph	
+Tfruns	
+Tibble	
+Tidygraph	
+Tidypmc	
+Tidyr	
+Tidyrules	
+Tidyselect	
+Tidytable	
+Tidytext	
+Tidytree	
+Tidyverse	
+Tinytex	
+Tippy	
+Tm	
+Tokenizers	
+Tools	
+Topicmodels	
+Treeio	
+UpSetR	
+Vegan	
+VennDiagram	
+Venneuler	
+Viridis	
+ViridisLite	
+Vroom	
+Waldo	
+Webshot	
+Whisker	
+Wordcloud	
